@@ -1,0 +1,61 @@
+
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-caption{
+    top:40vh;
+}
+.card:hover{
+    transition: 0.1s ease-in;
+    transform: scale(1.1);
+}
+.jumbotron-resume{
+    background-color:lightgray;
+}
+.ab{
+    border: solid;
+    color: white;
+}
+.jumbotron-special{
+   background-color:#43485c;
+   color: white;
+}
+.card-img-top{
+    height: 20vh;
+    width: 100%;
+}
+.mar{
+    padding-top: -5px;
+}
+.text-maroon{
+color: maroon;
+}
+.navbar{
+    box-shadow: 2px 2px 4px gray;;
+}
+.nav-link{
+    color: blue !important;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid blue;
+    
+}
+
+.navbar-nav .active{
+    border-bottom: 2px solid blue;;
+}
+.footer {
+    bottom: 0;
+    width: 100vw;
+    padding: 0;
+    height: 80px;
+    text-align: center;
+    background: #1f2c6c;
+    color: whitesmoke;
+    padding-top: 2rem;
+  }
+  
